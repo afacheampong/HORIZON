@@ -1,0 +1,30 @@
+
+.container-calculator{
+  height: 50vh;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: .5%;
+}
+
+.col-md-12{
+  background-color: gray;
+  text-align: right;
+  height: 5vh;
+}
+
+
+.number1{
+  background-color: silver;
+  border: 1px solid gray;
+  padding-left: 10%;
+}
+
+.number2{
+  background-color: orange;
+  border: 1px solid gray;
+  padding-left: 10%;
+}
+
+.col-md-6 {
+  text-align: center;
+}
